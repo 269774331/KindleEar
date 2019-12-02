@@ -11,4 +11,4 @@ def getBook():
 class LongCheng(xxbiqugebase):
     title = u'[小说]龙城'
     description = u'方想'
-    feeds = 'https://www.xbiquge6.com/87_87785/'
+    feeds = 'https://www.xsbiquge.com/87_87785/'
