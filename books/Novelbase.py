@@ -99,7 +99,7 @@ class Novelbase(BaseUrlBook):
 
 
 class xxbiqugebase(Novelbase):
-    host = 'https://www.xxbiquge.com/'
+    host = 'https://www.xsbiquge.com/'
     tag = 'div'
     tagAttr = {'id': 'list'}
     indexChapterInUrl = 2
