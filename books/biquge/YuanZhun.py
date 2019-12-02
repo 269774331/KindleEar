@@ -11,4 +11,4 @@ def getBook():
 class YuanZhun(xxbiqugebase):
     title = u'[小说]元尊'
     description = u'天蚕土豆'
-    feeds = 'https://www.xbiquge6.com/78_78513/'
+    feeds = 'https://www.xsbiquge.com/78_78513/'
