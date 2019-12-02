@@ -11,4 +11,4 @@ def getBook():
 class FanRen(xxbiqugebase):
     title = u'[小说]凡人修仙之仙界篇'
     description = u'忘语'
-    feeds = 'https://www.xbiquge6.com/1_1203/'
+    feeds = 'https://www.xsbiquge.com/1_1203/'
